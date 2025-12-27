@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Harshi</h1>
 <h3 align="center">Java Developer | Backend Enthusiast | Problem Solver</h3>
 
-<p align="center">
-  <a href="https://harshi-3.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
-  <a href="https://github.com/Harshi-3" target="_blank">💻 GitHub</a>
-</p>
+
 ---
 
 ## 🚀 About Me
@@ -21,8 +18,12 @@ I enjoy solving real-world problems using **clean code**, **object-oriented prin
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nmf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kalouni-8b30aa21a/https://linkedin.com/in/fnf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkalouni31@gmail.com) 
 
+<!--
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+-->
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harshi-3&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshi-3&theme=dark&hide_border=true)<br/>
@@ -63,7 +64,7 @@ I enjoy solving real-world problems using **clean code**, **object-oriented prin
 - REST API fundamentals
 
 ---
-
+<!--
 ## 📌 Featured Projects
 
 > These projects demonstrate my **Java fundamentals, backend logic, and problem-solving skills**.
@@ -85,15 +86,8 @@ I enjoy solving real-world problems using **clean code**, **object-oriented prin
 
 👉 *More projects available in my repositories.*
 
----
+--->
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshi-3&show_icons=true&theme=default" alt="GitHub stats" />
-</p>
-
----
 
 ## 🌱 Currently Learning
 
