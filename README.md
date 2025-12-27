@@ -1,27 +1,22 @@
-## Hi there 👋
 
-<!--
-**Harshi-3/Harshi-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Harshi</h1>
+<h3 align="center">Java Developer | Backend Enthusiast | Problem Solver</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://harshi-3.github.io/Portfolio/" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/Harshi-3" target="_blank">💻 GitHub</a>
+</p>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: harshkalouni31@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I am a **passionate Java Developer** focused on building **robust, scalable, and efficient backend applications**.  
+I enjoy solving real-world problems using **clean code**, **object-oriented principles**, and **industry-standard tools**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Azure
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with 
-- 📫 How to reach me: harshkalouni31@gmail.com
+🎯 **Career Goal:** To secure a **Java Developer role** where I can contribute to impactful software while continuously learning and growing.
+
+---
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nmf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kalouni-8b30aa21a/https://linkedin.com/in/fnf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkalouni31@gmail.com) 
@@ -40,4 +35,92 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Harshi-3&icon=0&color=0)](https://visitcount.itsvg.in)
 -->
+
+
+
+## 🛠️ Technical Skills
+
+### 💻 Programming Languages
+- **Java**
+- SQL
+- HTML, CSS
+- JavaScript (basic)
+
+### ⚙️ Frameworks & Tools
+- Java (OOP, Collections, Exception Handling)
+- JDBC
+- Git & GitHub
+- Maven (basic)
+- Eclipse / IntelliJ IDEA
+
+### 🗄️ Databases
+- MySQL
+
+### 🧪 Concepts
+- Object-Oriented Programming (OOP)
+- Data Structures & Algorithms (Basics)
+- MVC Architecture
+- REST API fundamentals
+
+---
+
+## 📌 Featured Projects
+
+> These projects demonstrate my **Java fundamentals, backend logic, and problem-solving skills**.
+
+### 🔹 Java-Based Applications
+- **Student Management System**
+  - Java application using OOP concepts and JDBC
+  - CRUD operations with MySQL
+  - Clean and modular code structure
+
+- **Bank Management System**
+  - Core Java project
+  - Exception handling, file/database handling
+  - Real-world business logic implementation
+
+- **Console-Based Java Projects**
+  - Hands-on practice with collections, loops, and control flow
+  - Focus on logic building and code clarity
+
+👉 *More projects available in my repositories.*
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshi-3&show_icons=true&theme=default" alt="GitHub stats" />
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Java
+- Spring & Spring Boot
+- RESTful Web Services
+- Data Structures & Algorithms (Java)
+- Backend best practices
+
+---
+
+## 🤝 What I Bring as a Developer
+
+✔️ Strong Java fundamentals  
+✔️ Clean, readable, and maintainable code  
+✔️ Willingness to learn and adapt quickly  
+✔️ Problem-solving mindset  
+✔️ Team collaboration using Git  
+
+---
+
+## 📫 Contact Me
+
+- 🌐 Portfolio: https://harshi-3.github.io/Portfolio/
+- 💻 GitHub: https://github.com/Harshi-3
+
+---
+
+⭐ *Thank you for visiting my profile! I’m actively seeking Java Developer opportunities and would love to contribute to your team.*
 
