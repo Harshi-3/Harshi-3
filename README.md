@@ -13,7 +13,7 @@ I enjoy solving real-world problems using **clean code**, **object-oriented prin
 🎯 **Career Goal:** To secure a **Java Developer role** where I can contribute to impactful software while continuously learning and growing.
 
 ---
-
+- 🌐 Portfolio: https://harshi-3.github.io/Portfolio/
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nmf) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-kalouni-8b30aa21a/https://linkedin.com/in/fnf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshkalouni31@gmail.com) 
@@ -24,10 +24,15 @@ I enjoy solving real-world problems using **clean code**, **object-oriented prin
 
 -->
 
+
+<!---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Harshi-3&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Harshi-3&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshi-3&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+--->
+
 
 <!--
 ## 🏆 GitHub Trophies
@@ -106,13 +111,6 @@ I enjoy solving real-world problems using **clean code**, **object-oriented prin
 ✔️ Willingness to learn and adapt quickly  
 ✔️ Problem-solving mindset  
 ✔️ Team collaboration using Git  
-
----
-
-## 📫 Contact Me
-
-- 🌐 Portfolio: https://harshi-3.github.io/Portfolio/
-- 💻 GitHub: https://github.com/Harshi-3
 
 ---
 
